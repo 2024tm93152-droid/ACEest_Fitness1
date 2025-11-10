@@ -3,7 +3,7 @@ Unit tests for the Flask app initialization and basic endpoints.
 """
 
 import pytest
-from app.aceest_fitness import create_app
+from app.aceest_fitness1 import create_app
 
 
 @pytest.fixture

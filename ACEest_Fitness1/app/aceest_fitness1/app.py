@@ -1,4 +1,4 @@
-from aceest_fitness import create_app
+from app.aceest_fitness1 import create_app
 
 if __name__ == "__main__":
     app = create_app()
